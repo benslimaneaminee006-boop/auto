@@ -1,0 +1,2 @@
+rootProject.name = "VTC Auto Accept"
+include ':app'

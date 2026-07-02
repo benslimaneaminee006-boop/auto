@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VTC Auto Accept</string>
+    <string name="accessibility_service_description">Permet à VTC Auto Accept de lire les propositions de courses affichées et de les accepter automatiquement selon vos conditions.</string>
+</resources>
